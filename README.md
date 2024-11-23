@@ -1,14 +1,13 @@
 <html>
     <body>
         <header style="background-color:black">
-    <img src="https://learn.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-    <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0">История</a>
+    <img src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-tv5g-p-unitaz-png-2.png" height="50px"/>
+    <h1>Какой ты Унитаз по знаку зодикаа</h1>
         </header>
-        <main style="background-color:lightgray">
-    <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств</h1>
-    <img src="https://learn.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/>
-    <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. У нас представлены: традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-    <img src="https://learn.algoritmika.org/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px"/><img src="https://learn.algoritmika.org/uploads/2020/10/punching-bag_0_1602525500.png" height="230px"/><img src="https://learn.algoritmika.org/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px"/>
+        <main style="background-color:navy">
+    <p>ㅤ козёлㅤㅤㅤ----ㅤㅤㅤㅤунитаз смотрит в камеру</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" height="100px"/><img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" height="100"/>
+"
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
