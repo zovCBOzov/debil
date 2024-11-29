@@ -6,8 +6,8 @@
         </header>
         <main style="background-color:navy">
     <p>ㅤ козёлㅤㅤㅤ----ㅤㅤㅤㅤунитаз смотрит в камеру</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100">
-    <img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2"height="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100" width="100">
+    <img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/>
 "
        </main>
        <main style="background-color:black">
