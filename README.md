@@ -10,6 +10,9 @@
     <p>главный прибор уборной смотрит в камеру🤣🤣🤣</p>
     <img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/>
     <p>ㅤ бычара🐮🐮🐮</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RR5110-0050R.gif" height="100" width="100"/>
+    <p>ㅤ  богач😎🤯</p>
+    <img src="
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
