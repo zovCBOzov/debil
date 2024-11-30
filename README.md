@@ -62,6 +62,30 @@
                 <td><img src="https://www.scale.ru/upload/iblock/ad6/cas-swn-front-289_thumb_0490c20e7cb7ab0b79c9a5f30fa6692e.jpg" height="100" width="100"/></td>
                 <td><img src="https://funny.klev.club/smeh/uploads/posts/2024-05/funny-klev-club-w009-p-samie-smeshnie-kartinki-unitaza-6.jpg" height="100" width="100"/></td>
             </tr>
+            <tr>
+                <td>Скоприон👾🤖💩</td>
+                <td>Вы в пруд с рыбками нассали🙂</td>
+            </tr>
+            <tr>
+                <td><img src="https://static.wikia.nocookie.net/character-power/images/3/36/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png/revision/latest?cb=20201104212844&path-prefix=ru" height="100 width="100"</td>
+                <td><img src="https://cdn.profile.ru/wp-content/uploads/2021/07/prud-na-dache-rybki-voda-500x281.jpg" height="100" width="100"</td>
+            </tr>
+            <tr>
+                <td>Носить змея</td>
+                <td>хз не слышал</td>
+            </tr>
+            <tr>
+                <td><img src="https://s14.stc.yc.kpcdn.net/share/i/12/7718495/de-1200.jpg" height="100" width="100"</td>
+                <td><img src="https://zvukibukvy.ru/wp-content/uploads/2021/06/neizvestno-neponyatno-vyrajenie-oznachayushchee1623681834.jpg" height="100" width="100"</td>
+            </tr>
+            <tr>
+                <td>Стрелок</td>
+                <td>Не#р</td>
+            </tr>
+            <tr>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/RR5111-0119R.gif" height="100" width="100"</td>
+                <td><img src="https://kabina-shop.ru/wp-content/uploads/2020/04/unitaz-bezobokkoviy-esbano-alagon-c-matt-black-esbano-shop.ru-1-min.jpg" height="100" width="100"</td>
+            </tr>
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
