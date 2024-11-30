@@ -40,11 +40,19 @@
             </tr>
             <tr>
                 <td>ай лев🤑</td>
-                <td>Писуар</td>
+                <td>Писуар🦘</td>
             </tr>
             <tr>
                 <td><img src="https://img51994.kanal-o.ru/img/2020-07-27/fmt_81_24_shutterstock_109227575.jpg" height="100" width="100"</td>
                 <td><img src="https://www.termomir31.ru/upload/import_files/bf/bf34ef86-e42e-11e4-9425-001e676dded9_a3779ab9-ef55-4c05-9a54-997925b2bc1e.jpg" height="100" width="100"</td>
+            </tr>
+            <tr>
+                <td>Женщина😨😨</td>
+                <td>Вам в рот нассали</td>
+            </tr>
+            <tr>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RR5111-0115R.gif" height="100" width="100"</td>
+                <td><img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66589c95b43adc61aeaece8f_66589c9b23ca9456a54ecd91/scale_1200" height="100" width="100"</td>
             </tr>
        </main>
        <main style="background-color:black">
