@@ -43,7 +43,7 @@
                 <td>Писуар</td>
             </tr>
             <tr>
-                <td><img src="https://img51994.kanal-o.ru/img/2020-07-27/fmt_94_24_shutterstock_1437776585.jpg" height="100" width="100"</td>
+                <td><img src="https://img51994.kanal-o.ru/img/2020-07-27/fmt_81_24_shutterstock_109227575.jpg" height="100" width="100"</td>
                 <td><img src="https://www.termomir31.ru/upload/import_files/bf/bf34ef86-e42e-11e4-9425-001e676dded9_a3779ab9-ef55-4c05-9a54-997925b2bc1e.jpg" height="100" width="100"</td>
             </tr>
        </main>
