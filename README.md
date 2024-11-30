@@ -94,6 +94,22 @@
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/RR5110-0045R_%D0%9A%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%D0%B3.gif" height="100" width="100"/></td>
                 <td><img src="https://cs15.pikabu.ru/post_img/2024/06/21/11/1718996511170348092.jpg" height="100" width="100"</td>
             </tr>
+            <tr>
+                <td>Водяной</td>
+                <td>Вы - вода в которую срут😋😋</td>
+            </tr>
+            <tr>
+                <td><img src="https://img.waterworld.com/files/base/ebm/ww/image/2024/03/65e724a21f04ab001e1d8534-dreamstime_xl_32360015.png?auto=format,compress&fit=max&q=45&w=640&width=640" height="100" width="100"</td>
+                <td><img src="https://images.squarespace-cdn.com/content/v1/629780ad60b2ca4521d4fcbe/3ee2f5ea-5950-43b9-9898-a1b37ad6fbdb/water-droplet.jpg" height="100" width="100"</td>
+            </tr>
+            <tr>
+                <td>Рыба</td>
+                <td>Мишень с тубзиком</td>
+            </tr>
+            <tr>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/RR5110-0048R.gif" height="100" width="100"</td>
+                <td><img src="Vhttps://ae04.alicdn.com/kf/S2b6cab913ddc4acea56d38500b0a8a9cG.jpg_640x640.jpg" height="100" width="100"/></td>
+            </tr>
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
