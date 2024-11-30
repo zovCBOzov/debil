@@ -104,11 +104,11 @@
             </tr>
             <tr>
                 <td>Рыба</td>
-                <td>Мишень с тубзиком</td>
+                <td>Ви українец</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/RR5110-0048R.gif" height="100" width="100"</td>
-                <td><img src="Vhttps://ae04.alicdn.com/kf/S2b6cab913ddc4acea56d38500b0a8a9cG.jpg_640x640.jpg" height="100" width="100"/></td>
+                <td><img src="https://ic.pics.livejournal.com/cmpou/26982729/15652/15652_original.jpg" height="100" width="100"/></td>
             </tr>
        </main>
        <main style="background-color:black">
