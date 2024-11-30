@@ -15,7 +15,7 @@
     <td><img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/></td>
             </tr>
             <tr>
-    <td>Корова🐮🐮🤓</td>
+    <td>Мелкий бык</td>
     <td>Богатый сральник😎😎🥵</td>
             </tr>
             <tr>
@@ -23,7 +23,7 @@
                 <td><img src="https://decoriko.ru/upload/iblock/5ab/unitaz-pod-zoloto-ts-2.jpg" height="100" width="100"/></td>
             </tr>
             <tr>
-                <td>2🤘👐👊</td>
+                <td>Стерлец🤘👐👊</td>
                 <td>Макешифт тоилет👨😚😚</td>
             </tr>
             <tr>
@@ -71,20 +71,28 @@
                 <td><img src="https://cdn.profile.ru/wp-content/uploads/2021/07/prud-na-dache-rybki-voda-500x281.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Носить змея</td>
-                <td>хз не слышал</td>
+                <td>Носить змея😋😋</td>
+                <td>хз не слышал🤔</td>
             </tr>
             <tr>
                 <td><img src="https://s14.stc.yc.kpcdn.net/share/i/12/7718495/de-1200.jpg" height="100" width="100"</td>
                 <td><img src="https://zvukibukvy.ru/wp-content/uploads/2021/06/neizvestno-neponyatno-vyrajenie-oznachayushchee1623681834.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Стрелок</td>
-                <td>Не#р</td>
+                <td>Стрелок🙄😣😣</td>
+                <td>Не#р🧑🏿👴🏿👶🏿</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/RR5111-0119R.gif" height="100" width="100"</td>
                 <td><img src="https://kabina-shop.ru/wp-content/uploads/2020/04/unitaz-bezobokkoviy-esbano-alagon-c-matt-black-esbano-shop.ru-1-min.jpg" height="100" width="100"</td>
+            </tr>
+            <tr>
+                <td>Козинак</td>
+                <td>Конюнитаз</td>
+            </tr>
+            <tr>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/RR5110-0045R_%D0%9A%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%D0%B3.gif" height="100" width="100"/></td>
+                <td><img src="https://cs15.pikabu.ru/post_img/2024/06/21/11/1718996511170348092.jpg" height="100" width="100"</td>
             </tr>
        </main>
        <main style="background-color:black">
