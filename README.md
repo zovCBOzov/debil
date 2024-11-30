@@ -54,6 +54,14 @@
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RR5111-0115R.gif" height="100" width="100"</td>
                 <td><img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66589c95b43adc61aeaece8f_66589c9b23ca9456a54ecd91/scale_1200" height="100" width="100"</td>
             </tr>
+            <tr>
+                <td>Термометр🐖</td>
+                <td>Сартир тапок😈😈</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.scale.ru/upload/iblock/ad6/cas-swn-front-289_thumb_0490c20e7cb7ab0b79c9a5f30fa6692e.jpg" height="100" width="100"/></td>
+                <td><img src="https://funny.klev.club/smeh/uploads/posts/2024-05/funny-klev-club-w009-p-samie-smeshnie-kartinki-unitaza-6.jpg" height="100" width="100"/></td>
+            </tr>
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
