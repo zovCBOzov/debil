@@ -15,7 +15,7 @@
     <td><img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/></td>
             </tr>
             <tr>
-    <td>Корова🐮🐮🐮🤓</td>
+    <td>Корова🐮🐮🤓</td>
     <td>Богатый сральник😎😎🥵</td>
             </tr>
             <tr>
