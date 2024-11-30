@@ -6,13 +6,14 @@
         </header>
         <main style="background-color:navy">
         <table>
-            <tr></tr>
+            <tr>
     <td>ㅤ козёл       ---       главный прибор уборной смотрит в камеру🤣🤣🤣</td>
+            </tr>
+            <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100" width="100"></td>
     <td><img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/></td>
-    <p>ㅤ бычара🐮🐮🐮</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RR5110-0050R.gif" height="100" width="100"/>
-    <p>ㅤ  богач😎🤯</p>
+            </tr>
+                
     <img src="
        </main>
        <main style="background-color:black">
