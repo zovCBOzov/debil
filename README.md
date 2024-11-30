@@ -38,6 +38,14 @@
                 <td><img src="https://sun9-51.userapi.com/s/v1/if2/ONdxwMENZ-j6Ekjwk7WAno5dl0Sr48yxEst7KmxPGFRBNOeJn2ZC4domUTwFB1xhXcQ-NTv2ncXgKL-FgAOSCMkw.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,989x700&from=bu&u=Jlvcs7Eqrgeh23pbbwglqtQ_8iqGAVPGuzRRoNdyb04&cs=807x571" height="100" width="100"/></td>
                 <td><img src="https://ir.ozone.ru/s3/multimedia-0/c1000/6391638276.jpg" height="100" width="100"</td>
             </tr>
+            <tr>
+                <td>ай лев🤑</td>
+                <td>Писуар</td>
+            </tr>
+            <tr>
+                <td><img src="https://img51994.kanal-o.ru/img/2020-07-27/fmt_94_24_shutterstock_1437776585.jpg" height="100" width="100"</td>
+                <td><img src="https://www.termomir31.ru/upload/import_files/bf/bf34ef86-e42e-11e4-9425-001e676dded9_a3779ab9-ef55-4c05-9a54-997925b2bc1e.jpg" height="100" width="100"</td>
+            </tr>
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
