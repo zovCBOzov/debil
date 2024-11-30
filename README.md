@@ -5,10 +5,11 @@
     <h1>Какой ты Унитаз по знаку зодикаа🤤😜😴😴😴</h1>
         </header>
         <main style="background-color:navy">
-    <p>ㅤ козёл</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100" width="100">
-    <p>главный прибор уборной смотрит в камеру🤣🤣🤣</p>
-    <img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/>
+        <table>
+            <tr></tr>
+    <td>ㅤ козёл       ---       главный прибор уборной смотрит в камеру🤣🤣🤣</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100" width="100"></td>
+    <td><img src="https://png.pngtree.com/png-clipart/20240131/original/pngtree-toilet-bowl-isolated-ceramic-photo-png-image_14192498.png" alt="q2" height="100" width="100"/></td>
     <p>ㅤ бычара🐮🐮🐮</p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RR5110-0050R.gif" height="100" width="100"/>
     <p>ㅤ  богач😎🤯</p>
