@@ -30,6 +30,14 @@
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/RR5110-0051R.gif" height="100" width="100"/></td>
                 <td><img src="https://ae04.alicdn.com/kf/S71f3fb51aa244f9ab88c30e6522a217dg.jpg" height="100" width="100"</td>
             </tr>
+            <tr>
+                <td>Рачок🦞🦀</td>
+                <td>Белый конь харкает😶🙄🥱</td>
+            </tr>
+            <tr>
+                <td><img src="https://ir.ozone.ru/s3/multimedia-0/c1000/6391638276.jpg" height="100" width="100"/></td>
+                <td><img src="https://ir.ozone.ru/s3/multimedia-0/c1000/6391638276.jpg" height="100" width="100"</td>
+            </tr>
        </main>
        <main style="background-color:black">
     <p style="font-size:15px; color: white"> 
