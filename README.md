@@ -7,7 +7,8 @@
         <main style="background-color:navy">
         <table>
             <tr>
-    <td>ㅤ козёл       ---       главный прибор уборной смотрит в камеру🤣🤣🤣</td>
+    <td>ㅤ козёл</td>
+    <td>главный прибор уборной смотрит в камеру🤣🤣🤣</td>
             </tr>
             <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/RR5110-0049R.gif" alt="q1" height="100" width="100"></td>
