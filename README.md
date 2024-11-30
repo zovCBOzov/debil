@@ -35,7 +35,7 @@
                 <td>Белый конь харкает😶🙄🥱</td>
             </tr>
             <tr>
-                <td><img src="[https://ir.ozone.ru/s3/multimedia-0/c1000/6391638276.jpg](https://sun9-51.userapi.com/s/v1/if2/ONdxwMENZ-j6Ekjwk7WAno5dl0Sr48yxEst7KmxPGFRBNOeJn2ZC4domUTwFB1xhXcQ-NTv2ncXgKL-FgAOSCMkw.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,989x700&from=bu&u=Jlvcs7Eqrgeh23pbbwglqtQ_8iqGAVPGuzRRoNdyb04&cs=807x571)" height="100" width="100"/></td>
+                <td><img src="https://sun9-51.userapi.com/s/v1/if2/ONdxwMENZ-j6Ekjwk7WAno5dl0Sr48yxEst7KmxPGFRBNOeJn2ZC4domUTwFB1xhXcQ-NTv2ncXgKL-FgAOSCMkw.jpg?quality=96&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,989x700&from=bu&u=Jlvcs7Eqrgeh23pbbwglqtQ_8iqGAVPGuzRRoNdyb04&cs=807x571" height="100" width="100"/></td>
                 <td><img src="https://ir.ozone.ru/s3/multimedia-0/c1000/6391638276.jpg" height="100" width="100"</td>
             </tr>
        </main>
