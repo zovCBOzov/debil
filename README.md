@@ -16,11 +16,19 @@
             </tr>
             <tr>
     <td>Корова🐮🐮🐮🤓</td>
-    <td>Богатый сральник</td>
+    <td>Богатый сральник😎😎🥵</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RR5110-0050R.gif" height="100" width="100"/></td>
                 <td><img src="https://decoriko.ru/upload/iblock/5ab/unitaz-pod-zoloto-ts-2.jpg" height="100" width="100"/></td>
+            </tr>
+            <tr>
+                <td>2🤘👐👊</td>
+                <td>Макешифт тоилет👨😚😚</td>
+            </tr>
+            <tr>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/RR5110-0051R.gif" height="100" width="100"/></td>
+                <td><img src="https://ae04.alicdn.com/kf/S71f3fb51aa244f9ab88c30e6522a217dg.jpg" height="100" width="100"</td>
             </tr>
        </main>
        <main style="background-color:black">
