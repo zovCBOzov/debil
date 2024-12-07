@@ -71,7 +71,7 @@
                 <td><img src="https://cdn.profile.ru/wp-content/uploads/2021/07/prud-na-dache-rybki-voda-500x281.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Носить змея😋😋</td>
+                <td>Веномансер😋😋</td>
                 <td>хз не слышал🤔</td>
             </tr>
             <tr>
