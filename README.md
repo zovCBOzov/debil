@@ -75,7 +75,7 @@
                 <td>хз не слышал🤔</td>
             </tr>
             <tr>
-                <td><img src="https://s14.stc.yc.kpcdn.net/share/i/12/7718495/de-1200.jpg" height="100" width="100"</td>
+                <td><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Venomancer_icon.png/revision/latest?cb=20160411213902" height="100" width="100"</td>
                 <td><img src="https://zvukibukvy.ru/wp-content/uploads/2021/06/neizvestno-neponyatno-vyrajenie-oznachayushchee1623681834.jpg" height="100" width="100"</td>
             </tr>
             <tr>
