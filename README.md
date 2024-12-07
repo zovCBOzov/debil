@@ -48,7 +48,7 @@
             </tr>
             <tr>
                 <td>Женщина😨😨</td>
-                <td>Вам в рот нассали</td>
+                <td>Вам в рот нассали🎇🎆🎈</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/RR5111-0115R.gif" height="100" width="100"</td>
@@ -87,15 +87,15 @@
                 <td><img src="https://kabina-shop.ru/wp-content/uploads/2020/04/unitaz-bezobokkoviy-esbano-alagon-c-matt-black-esbano-shop.ru-1-min.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Козинак</td>
-                <td>Конюнитаз</td>
+                <td>Козинак🥐🥯🥨</td>
+                <td>Конюнитаз🦄🦄</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/RR5110-0045R_%D0%9A%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%D0%B3.gif" height="100" width="100"/></td>
                 <td><img src="https://cs15.pikabu.ru/post_img/2024/06/21/11/1718996511170348092.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Водяной</td>
+                <td>Водяной🙂</td>
                 <td>Вы - вода в которую срут😋😋</td>
             </tr>
             <tr>
@@ -103,8 +103,8 @@
                 <td><img src="https://images.squarespace-cdn.com/content/v1/629780ad60b2ca4521d4fcbe/3ee2f5ea-5950-43b9-9898-a1b37ad6fbdb/water-droplet.jpg" height="100" width="100"</td>
             </tr>
             <tr>
-                <td>Рыба</td>
-                <td>Ви українец</td>
+                <td>Рыба🦈🐬</td>
+                <td>Ви українец😶</td>
             </tr>
             <tr>
                 <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/RR5110-0048R.gif" height="100" width="100"</td>
