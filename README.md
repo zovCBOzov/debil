@@ -67,7 +67,7 @@
                 <td>Вы в пруд с рыбками нассали🙂</td>
             </tr>
             <tr>
-                <td><img src="https://static.wikia.nocookie.net/character-power/images/3/36/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png/revision/latest?cb=20201104212844&path-prefix=ru" height="100 width="100"/></td>
+                <td><img src="https://static.wikia.nocookie.net/character-power/images/3/36/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png/revision/latest?cb=20201104212844&path-prefix=ru" height="100" width="100" /></td>
                 <td><img src="https://cdn.profile.ru/wp-content/uploads/2021/07/prud-na-dache-rybki-voda-500x281.jpg" height="100" width="100"/></td>
             </tr>
             <tr>
